@@ -150,7 +150,7 @@
 
 | Contributor | Project Name | GitHub Link |
 |-------------|--------------|-------------|
-| _Add Here_  |              |             |
+| Nithin R | LIFE INSURANCE PORTAL | [Link](https://github.com/nithin-2907/SOFTWARE_DESIGN_PATTERN_LIFE_INSURANCE ) |
 
 ---
 
